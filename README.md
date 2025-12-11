@@ -1,5 +1,4 @@
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
-Date: 
 ### AIM:
 To Implement Linear and Polynomial Trend Estiamtion Using Python.
 
@@ -15,10 +14,6 @@ Calculate the polynomial trend values using least square method
 End the program
 ### PROGRAM:
 A - LINEAR TREND ESTIMATION
-```
-PRAGATHEESVARAN A B
-212221240039
-```
 ```
 
 import numpy as np
